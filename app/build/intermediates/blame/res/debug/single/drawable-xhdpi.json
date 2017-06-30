@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tips.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\tips.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\histroy.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\histroy.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cloud.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\cloud.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\help.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\confirm.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\welcome_logo.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\welcome_logo.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\measure.png",
+        "source": "D:\\andriod-studio\\workspace\\infonous-Everest-ceb15b3\\app\\src\\main\\res\\drawable-xhdpi\\measure.png"
+    }
+]

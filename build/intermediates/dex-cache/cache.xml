@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\raozhi\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.9\87372d9e2323313bec24b09a325bfea8ae0eb867\aspectjrt-1.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="87372d9e2323313bec24b09a325bfea8ae0eb867">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\aspectjrt-1.8.9_19e3ee16462c01bced29d092823a0d4ef5518259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_3a416c563d5974b5f5dd2e2b01e96ce7f1ddbb23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_ed15bf0abb9e33691c2f703d7d31bf8ced638735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_a86a03a82eb27abfae0de603f273c1e240e55fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_e6aeff0e1341b9f3f1fd6eda60f06fdd6a7fd71d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d50395b1662a2df056b9c7d2523e4e5898ea4d8">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ffd3fd715078c20669afee6150acb9dbfc2aab5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_30102511d8cb72d05b141ab583b3d4d0f47751af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_e49dc95fd544b760f1eeffeb981f9d8765256ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_6a5f2d48ff901df1e9c78fc5ee3e0537c968cc22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_fb233f0e7e9625e5f18f1f265009f7e6a5ca524e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_bad16d7b68e98e0b98bb7b7c5273d96cf388c05a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_0e09777b4e88f5e05030dca6534657491c89764d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_7d9adc50bdd448c2bff446fc19b6d54afd61b979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_dc696d43596a8b0b8f531d87390fabaccaea68fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_c56c633efbbd9e59e6757629549efeab46ae702b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0d5d3f79be2c260d8f71ba69d8fa00ce1dfa14af">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9d65fd18c99f6fadb744d4125be0622d455c0cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\andriod-studio\workspace\infonous-Everest-ceb15b3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_667ef7e3f1fe99114bd1406d7290c9bf89c6f1aa\classes.dex" />
+    </item>
+
+</items>

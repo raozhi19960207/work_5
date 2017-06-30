@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="app_name">村花测距</string>
+    <string name="btn_camera">对目标物件拍照</string>
+    <string name="btn_logout">退出登录</string>
+    <string name="btn_query">搜索参照物资料</string>
+    <string name="btn_register">注册帐号</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>需要更新 Android Wear 应用才能正常运行。"</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"只有更新 Android Wear 应用后，<ns1:g id="APP_NAME">%1$s</ns1:g>才能正常运行。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"更新Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"运行<ns1:g id="APP_NAME">%1$s</ns1:g>所需的一项或多项 Google Play 服务目前无法使用。请与开发者联系以寻求帮助。"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"启用Google Play服务"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>发出的请求"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"获取Google Play服务"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"获取Google Play服务"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐户，请选择其他帐户。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"无效帐户"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"启用Google Play服务后才能运行应用。"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入Google Play服务。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"更新Google Play服务后才能运行应用。"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"登录该帐户时出错。请选择其他帐户。"</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"登录失败"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play服务出现未知问题。"</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"要运行<ns1:g id="APP_NAME">%1$s</ns1:g>，必须先启用 Google Play 服务，但您的设备目前不支持该服务。请与制造商联系以寻求帮助。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"更新Google Play服务"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"在手机上打开"</string>
+    <string name="dialog_alert_measure_button_1_title">取消</string>
+    <string name="dialog_alert_measure_button_2_title">忽略</string>
+    <string name="dialog_alert_measure_content">物体的高度和宽度这两项内容之中， 最好是至少填写其中的一项， 当然您也可以在作忽略操作， 稍候在计算距离时再补充填上。</string>
+    <string name="dialog_alert_measure_title">提醒</string>
+    <string name="dialog_alert_system_setting_button_1_title">我知道了</string>
+    <string name="dialog_alert_system_setting_button_1_title_2">我知道了， 稍候再完善资料</string>
+    <string name="dialog_alert_system_setting_button_2_title">以后不再提示</string>
+    <string name="dialog_alert_system_setting_content">传感器尺寸(英寸) 与 传感器像素点大小(微米) 这两大项的参数内容， 请选择或启用其中的一项， 并且完整地填写参数内容。 对于具体的参数值， 您可以查询手机的配置信息。</string>
+    <string name="dialog_alert_system_setting_content_2">您所输入的参数内容不完整， 所以不会自动保存， 稍候你可以重新设置。</string>
+    <string name="dialog_alert_system_setting_title">帮助</string>
+    <string name="dialog_alert_system_setting_title_2">提醒</string>
+    <string name="lab_copyright">Copyright© MetYue.com 2014–2016</string>
+    <string name="lab_deviation">±</string>
+    <string name="lab_height">高</string>
+    <string name="lab_link_back_info"><u>返回</u></string>
+    <string name="lab_link_more_info"><u>详细资料</u></string>
+    <string name="lab_long">长</string>
+    <string name="lab_result">两者距离: </string>
+    <string name="lab_result_integer">0</string>
+    <string name="lab_setting_choice">启用</string>
+    <string name="lab_setting_diagonal_line">尺寸</string>
+    <string name="lab_setting_diagonal_line_count">推算其长度、宽度的大小(毫米 mm)为：</string>
+    <string name="lab_setting_diagonal_line_tips">提示：传感器尺寸实际上是长宽之比为 4：3 的矩形的对角线长度（单位为英寸）， 常见的有 1/2.0、1/1.8、1/2.3</string>
+    <string name="lab_setting_factor_tips">提示：自行调整校正此数值， 避免因硬件设备因素， 所造成的计算差异， 如空则默认为 1.0 </string>
+    <string name="lab_setting_factor_value">因子系数</string>
+    <string name="lab_setting_null_space">-</string>
+    <string name="lab_setting_null_value">∞</string>
+    <string name="lab_setting_other">例子：魅族 Meizu mx4 手机所配置的摄像机, 选用的是索尼 imx220 传感器，其尺寸是 1/2.3 英寸，像素点长度为 1.2 微米, 宽度为 1.2 微米, 因子系数值设置为 2.0 </string>
+    <string name="lab_setting_pattern_rate">长宽比</string>
+    <string name="lab_setting_pattern_rate_tips">提示：按行业标准长宽之比是固定为 4/3 的， 如果你的 CCD/CMOS 感光元件是正方形 (1/1) 或其它比例的话， 可自行作修改</string>
+    <string name="lab_setting_pixel_tips">提示：通常一像素点的长度与宽度是一样的，单位为微米(um)</string>
+    <string name="lab_setting_rate_space">/</string>
+    <string name="lab_tab_list_view">目标图片</string>
+    <string name="lab_tab_real">实物资料(米)</string>
+    <string name="lab_tab_result">计算结果</string>
+    <string name="lab_tab_visual">目测参数</string>
+    <string name="lab_unit">米</string>
+    <string name="lab_version">ver 0.9.0710</string>
+    <string name="lab_width">宽</string>
+    <string name="main_grid_view_cloud">参照物云库</string>
+    <string name="main_grid_view_help">帮助文档</string>
+    <string name="main_grid_view_history">历史记录</string>
+    <string name="main_grid_view_home">会员资料</string>
+    <string name="main_grid_view_measure">拍照测距</string>
+    <string name="main_grid_view_setting">参数设置</string>
+    <string name="menu_compare_activity_home">返回主页面</string>
+    <string name="menu_compare_activity_save">保存本次测量资料</string>
+    <string name="menu_compare_activity_save_base">保存至本地的参照物资料库</string>
+    <string name="menu_compare_activity_save_cloud">上传至云端的参照物资料库</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab_setting_diagonal_line">传感器尺寸(英寸)</string>
+    <string name="tab_setting_factor">调节校正</string>
+    <string name="tab_setting_pattern">传感器长宽比例</string>
+    <string name="tab_setting_pixel">传感器像素点大小(微米)</string>
+    <string name="tab_setting_pixel_length">长度</string>
+    <string name="tab_setting_pixel_width">宽度</string>
+    <string name="tips_compare_error_1">无法进行估算， 因为系统参数设置不完整</string>
+    <string name="tips_compare_error_2">无法进行估算， 因为参照物或图片比对的数据不完整</string>
+    <string name="tips_create_dir">无法创建图片保存目录</string>
+    <string name="tips_exit">再按一次退出应用</string>
+    <string name="tips_not_sd">没有找到 SD 设备</string>
+    <string name="tips_setting_error_1">传感器尺寸不能为空， 且数值不能为零</string>
+    <string name="tips_setting_error_2">传感器的像素点长度和宽度不能为空， 且数值不能为零</string>
+    <string name="tips_setting_error_3">因子系数不应该为零， 可以默认为 1.0 再自行校正调整</string>
+    <string name="title_activity_compare">计算实物的距离</string>
+    <string name="title_activity_main">村花测距</string>
+    <string name="title_activity_measure">测量图像中目标尺寸</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="title_activity_welcome">村花测距</string>
+    <string name="txt_space">@null</string>
+</resources>
